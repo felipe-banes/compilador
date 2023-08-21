@@ -17,5 +17,5 @@ Para Python com tentativa de código intermediário para Java
 - [x] Gerados arquivos de saida antlr
 - [x] Ajustes no código pre-definidos com o TypeExpressionm
 - [x] Configurações do Eclipse
-- [ ] Testar sáida
+- [ ] Testar saída
 - [ ] Homologar compilador :tada:
